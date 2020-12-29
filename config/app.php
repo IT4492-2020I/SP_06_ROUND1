@@ -177,8 +177,6 @@ return [
         ConsoleTVs\Charts\ChartsServiceProvider::class,
         Dung\Product\ProductServiceProviders::class,
         Dung\User\UserServiceProviders::class,
-        Dung\Cart\CartServiceProviders::class,
-        Dung\Order\OrderServiceProviders::class,
 
     ],
 
